@@ -1,0 +1,13 @@
+.btn{
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 300;
+    color: white;
+    background-color: orange;
+    padding: 9px 15px;
+    border-radius: 9px;
+    transition: 0.3s;
+}
+
+.btn:hover{
+    background-color: crimson;
+}
